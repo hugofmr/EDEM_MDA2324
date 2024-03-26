@@ -66,8 +66,7 @@ class Perceptron:
             val_error_by_epoch.append(val_error_acum)
 
             
-            print(train_error_by_epoch)
-            print(val_error_by_epoch)
+
             # Visualización del progreso
             if epoch % 10 == 0:
                 print('epoch:', epoch, '| train error:', train_error_acum, '| val error:', val_error_acum)
