@@ -711,7 +711,7 @@ Entregas Entre Semana
 <td bgcolor='#779777'>✅</td>
 <td bgcolor='#5f7b6e'>✅</td>
 <td bgcolor='#4d5e5b'>❌</td>
-<td bgcolor='#4d5e5b'>❌</td>
+<td bgcolor='#4d5e5b'>✅</td>
 </tr>
 <tr>
 <td><a href='https://github.com/a10pepo/EDEM_MDA2324/tree/main/Alumnos/ES/Luis_Segura'>Luis_segura</a></td>
